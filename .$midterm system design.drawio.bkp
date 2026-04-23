@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="nAipGAn4zvBzE5Pu11gS">
-    <mxGraphModel dx="1084" dy="1860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3535" dy="3203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -406,21 +406,6 @@
             </Array>
             <mxPoint x="150" y="500" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QiWZolEeEq_IaPvZ38DP-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=110;height=30;" value="რეგისტრაცია" vertex="1">
-          <mxGeometry height="550" width="820" y="-680" as="geometry" />
-        </mxCell>
-        <mxCell id="QiWZolEeEq_IaPvZ38DP-2" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=70;height=50;" value="თეორიის გამოცდა" vertex="1">
-          <mxGeometry height="290" width="550" y="-40" as="geometry" />
-        </mxCell>
-        <mxCell id="QiWZolEeEq_IaPvZ38DP-3" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=40;" value="პრაქტიკის გამოცდა" vertex="1">
-          <mxGeometry height="270" width="550" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="QiWZolEeEq_IaPvZ38DP-4" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=78;height=50;" value="ჯამური ქულის ბარიერი" vertex="1">
-          <mxGeometry height="370" width="550" y="520" as="geometry" />
-        </mxCell>
-        <mxCell id="QiWZolEeEq_IaPvZ38DP-5" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=80;height=50;" value="1 წლიანი შეზღუდვა" vertex="1">
-          <mxGeometry height="930" width="300" x="550" y="-40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
